@@ -9,9 +9,10 @@ also if this file is exported to other apps , It won't open even if opened with 
 
 To share some other device the access of your file , open the file and note the id , 
 find a file with this id as name in C:\Users\USER NAME\AppData\Local\encriptificator_keys and send that file to their device
-on reciving device , open this app and when trying to open the file under open encripted file , when the app is unable to find the key in 		   the keys folder ,
+on reciving device , open this app and when trying to open the file under open encripted file , when the app is unable to find the key in the keys folder ,
 it will open an option to select key file , select that key file and your file will open , 
-Alternatively you can just paste this key file to the same address C:\Users\USER\AppData\Local\encriptificator_keys on the reciving    		   device for directly opning.\
+Alternatively you can just paste this key file to the same address C:\Users\USER\AppData\Local\encriptificator_keys on the reciving    		   
+device for directly opning.\
 
 There are two options to open a file which are open and open encrypted file
 open just opens the file as any other text editor app would have opened it,
